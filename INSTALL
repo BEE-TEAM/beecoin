@@ -1,0 +1,9 @@
+Building BEEcoin
+
+See doc/readme-qt.rst for instructions on building BEEcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BEEcoin.
+
+See doc/build-*.txt for instructions on building BEEcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BEEcoin.
